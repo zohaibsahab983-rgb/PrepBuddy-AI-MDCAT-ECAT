@@ -25,12 +25,15 @@ React, Tailwind CSS, Bolt.new, Gemini API / OpenAI, Vercel
 ## Screenshots
 ![QUIZ.jpeg]
 *20Q Timed Quiz with subject selection*
+<img width="1599" height="899" alt="QUIZ" src="https://github.com/user-attachments/assets/588d94aa-c268-42de-b2c1-19809b68d872" />
 
 ![AI BUDDY.jpeg]
 *AI explaining a Chemistry question*
+<img width="1599" height="899" alt="AI BUDDY" src="https://github.com/user-attachments/assets/d66ae178-985b-4915-8193-9c6aeef4bba3" />
 
 ![TIMETABLE.jpeg]
 *Personalized study schedule*
+<img width="1599" height="899" alt="TIMETABLE" src="https://github.com/user-attachments/assets/fcb961a4-bed7-44de-be31-0d970015bbb8" />
 
 ## How to Run
 1. Clone the repo
