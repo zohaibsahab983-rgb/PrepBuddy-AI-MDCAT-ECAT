@@ -23,13 +23,13 @@ AI-powered platform for MDCAT and ECAT students to practice quizzes, read notes,
 React, Tailwind CSS, Bolt.new, Gemini API / OpenAI, Vercel
 
 ## Screenshots
-![Quiz Dashboard](screenshot1.jpg)
+![QUIZ.jpeg]
 *20Q Timed Quiz with subject selection*
 
-![AI Buddy](screenshot2.jpg)
+![AI BUDDY.jpeg]
 *AI explaining a Chemistry question*
 
-![Timetable](screenshot3.jpg)
+![TIMETABLE.jpeg]
 *Personalized study schedule*
 
 ## How to Run
