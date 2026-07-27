@@ -1,6 +1,6 @@
 # PrepBuddy-AI-MDCAT-ECAT
 
-**Live App URL:** https://bolt.new/~sb1-jzp6wb5n
+**Live App URL:** https://prepbuddy-ai-web-app-gaor.bolt.host
 
 **Description:**
 AI-powered platform for MDCAT and ECAT students to practice quizzes, read notes, and ask doubts from AI Study Buddy.
